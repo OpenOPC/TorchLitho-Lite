@@ -18,6 +18,7 @@ To set up the project, follow these steps:
    ```sh
    pip install -r requirements.txt
    ```
+
 2. **Install the TorchLitho 2.0 project**
    Run the following command to install the project:
 
@@ -51,7 +52,7 @@ The example shows the simulation results of the ICCAD13 benchmark using a canvas
 
 If you find this project helpful in your research, please consider citing our paper:
 
-```cpp
+```latex
 @MISC{TorchLitho,
   title = {TorchLitho 2.0: Ultrafast Differentiable Lithography Simulation Engine},
   publisher = {GitHub},
